@@ -1,2 +1,6 @@
 this is storepage.
+<<<<<<< HEAD
 what to sell???lllll
+=======
+what to sell?/??
+>>>>>>> gazi
